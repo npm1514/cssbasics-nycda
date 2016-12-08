@@ -1,0 +1,39 @@
+.container {
+  position: relative;
+  width: 50vw;
+  height: 100vh;
+  border: 5px solid gold;
+  margin: auto;
+  background-image: url("drink.jpg");
+  background-size: cover;
+  text-align: center;
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  width: max-content;
+  margin: auto;
+  margin-top: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: gold;
+  text-align: center;
+  border-top: 5px solid gold;
+  border-bottom: 5px solid gold;
+}
+h2 {
+  color: rgb(237, 96, 139);
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  margin-top: 700px;
+  position: absolute;
+  bottom: 75px;
+  left: 0;
+  right: 0;
+  margin: auto;
+
+}
